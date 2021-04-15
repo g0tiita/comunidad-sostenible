@@ -1,0 +1,55 @@
+/* Inserta tu codigo aqui */
+/**{
+    outline: 1px dotted pink;
+}*/
+
+body{
+  font-family: 'OpenSans-Regular';
+}
+/*Menu*/
+.li-menu{
+  padding-right: 50px !important;
+  padding-left: 50px !important;
+}
+.border-menu{
+  border-right:1px solid #6c757d;
+}
+
+/*SúperSemilla*/
+.img-semilla{
+  background: url("../img/semilla.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+.title-h{
+  padding: 10px;
+}
+.metodologia-img{
+  background: url("../img/metodo.jpg");
+  background-size: cover;
+  background-position: center;
+  height: auto;
+}
+
+.metodologia{
+  background: url("../img/fondo.jpg");
+}
+/*Proyectos*/
+
+/*Equipo*/
+.img-equipo{
+  border-radius: 50%;
+}
+/*Blog*/
+.blog-carousel{
+  background: url("../img/fondo2.jpg");
+}
+/*Siguenos*/
+.img-redes{
+  width: 50px;
+}
+.redes-border{
+  border: 1px solid #fff;
+}
